@@ -5,7 +5,7 @@
       "name": "TAnfo",
       "price": "300.800",
       "description": "Massa",
-      "available": false,
+      "available": true,
       "id": 4
     }
   ]
