@@ -2,11 +2,11 @@
   "foods": [
     {
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png",
-      "name": "TAnfo",
-      "price": "300.800",
-      "description": "Massa",
+      "name": "fada",
+      "price": "56,10",
+      "description": "gostosa",
       "available": true,
-      "id": 4
+      "id": 6
     }
   ]
 }
